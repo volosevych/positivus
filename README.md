@@ -28,7 +28,6 @@ I developed this website based on a free Figma design to enhance and showcase my
 
 Check out the live verstion here: [Link](https://volosevych.github.io/positivus/)
 
-### Screenshots
 ![Demo Gif](./public/assets/gif/Animation.gif)
 
 ---
