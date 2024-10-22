@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/positivus/static/css/main.42112bbc.css",
-    "main.js": "/positivus/static/js/main.b740150c.js",
+    "main.css": "/positivus/static/css/main.27a92b39.css",
+    "main.js": "/positivus/static/js/main.52432b34.js",
     "index.html": "/positivus/index.html",
-    "main.42112bbc.css.map": "/positivus/static/css/main.42112bbc.css.map",
-    "main.b740150c.js.map": "/positivus/static/js/main.b740150c.js.map"
+    "main.27a92b39.css.map": "/positivus/static/css/main.27a92b39.css.map",
+    "main.52432b34.js.map": "/positivus/static/js/main.52432b34.js.map"
   },
   "entrypoints": [
-    "static/css/main.42112bbc.css",
-    "static/js/main.b740150c.js"
+    "static/css/main.27a92b39.css",
+    "static/js/main.52432b34.js"
   ]
 }
