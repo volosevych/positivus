@@ -12,9 +12,6 @@ A responsive SaaS landing page built with React, and Tailwind CSS, deployed on G
 - [Usage](#usage)
 - [Technologies](#technologies)
 - [Folder Sctructure](#folder-sctructure)
-- [Contrubuting](#contributing)
-- [Licence](#licence)
-- [Contact](#contact)
 
 ---
 
@@ -32,8 +29,7 @@ I developed this website based on a free Figma design to enhance and showcase my
 Check out the live verstion here: [Link](https://volosevych.github.io/positivus/)
 
 ### Screenshots
-![Screenshot1]()
-![Screenshot2]()
+![Demo Gif](./public/assets/gif/Animation.gif)
 
 ---
 
