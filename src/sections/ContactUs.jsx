@@ -125,7 +125,7 @@ const ContactUs = () => {
                         </div>
 
                         <div>
-                            <img src={`${process.env.PUBLIC_URL}/assets/illustrations/Illustration-3.png`} className='absolute right-[-320px] top-0 max-md:hidden' alt="contact form illustration" />
+                            <img src={`${process.env.PUBLIC_URL}/assets/illustrations/Illustration-3.png`} className='absolute right-[-10px] top-0 max-md:hidden' alt="contact form illustration" />
                         </div>
                     </div>
                 </div>
