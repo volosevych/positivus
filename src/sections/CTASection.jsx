@@ -19,7 +19,7 @@ const CTASection = () => {
                 </div>
 
                 <div className='absolute right-28 top-[-8px] max-lg:hidden'>
-                    <img src={`${process.env.PUBLIC_URL}/assets/illustrations/illustration-2.png`} alt="illustration" />
+                    <img src={`${process.env.PUBLIC_URL}/assets/illustrations/Illustration-2.png`} alt="illustration" />
                 </div>
                 
             </div>

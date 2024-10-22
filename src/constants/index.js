@@ -95,7 +95,7 @@ export const services = [
     {
         id: '0',
         title: `Search engine<br>optimization`,
-        image: `${process.env.PUBLIC_URL}/assets/services/illustration-1.png`,
+        image: `${process.env.PUBLIC_URL}/assets/services/Illustration-1.png`,
         bgColor: 'bg-p3',
         bgText: 'bg-p1 rounded-md',
         btn: [
@@ -109,7 +109,7 @@ export const services = [
     {
         id: '1',
         title: 'Pay-per-click<br>advertising',
-        image: `${process.env.PUBLIC_URL}/assets/services/illustration-2.png`,
+        image: `${process.env.PUBLIC_URL}/assets/services/Illustration-2.png`,
         bgColor: 'bg-p1',
         bgText: 'bg-p3 rounded-md',
         btn: [
@@ -123,7 +123,7 @@ export const services = [
     {
         id: '2',
         title: 'Social Media<br>Marketing',
-        image: `${process.env.PUBLIC_URL}/assets/services/illustration-3.png`,
+        image: `${process.env.PUBLIC_URL}/assets/services/Illustration-3.png`,
         bgColor: 'bg-p2',
         bgText: 'bg-p3 rounded-md',
         textColor: 'text-p3',
@@ -153,7 +153,7 @@ export const services = [
     {
         id: '4',
         title: 'Content<br>Creation',
-        image: `${process.env.PUBLIC_URL}/assets/services/illustration-5.png`,
+        image: `${process.env.PUBLIC_URL}/assets/services/Illustration-5.png`,
         bgColor: 'bg-p1',
         bgText: 'bg-p3 rounded-md',
         btn: [
@@ -167,7 +167,7 @@ export const services = [
     {
         id: '5',
         title: 'Analytics and<br>Tracking',
-        image: `${process.env.PUBLIC_URL}/assets/services/illustration-6.png`,
+        image: `${process.env.PUBLIC_URL}/assets/services/Illustration-6.png`,
         bgColor: 'bg-p2',
         bgText: 'bg-p1 rounded-md',
         textColor: 'text-p3',

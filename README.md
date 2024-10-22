@@ -29,7 +29,7 @@ I developed this website based on a free Figma design to enhance and showcase my
 
 ## Demo
 
-Check out the live verstion here: [Link](https://volosevych.github.io/potitivus-website/)
+Check out the live verstion here: [Link](https://volosevych.github.io/positivus/)
 
 ### Screenshots
 ![Screenshot1]()

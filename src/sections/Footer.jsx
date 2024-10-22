@@ -6,7 +6,7 @@ const Footer = () => {
         <div className="footerContainer">
             <div className='bg-p2 py-14 px-16 rounded-t-3xl max-lg:rounded-none'>
                 <div className='flex justify-between max-lg:flex-col max-lg:items-center'>
-                    <img src={`${process.env.PUBLIC_URL}/assets/header/whiteLogo.png`} alt="logo" />
+                    <img src={`${process.env.PUBLIC_URL}/assets/header/WhiteLogo.png`} alt="logo" />
 
                     <div className='flex flex-row space-x-3 max-lg:mt-5'>
                         <a href="#"><img src={`${process.env.PUBLIC_URL}/assets/icons/whiteLinkedin.png`} alt="LinkedIn" /></a>

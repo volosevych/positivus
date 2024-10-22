@@ -28,7 +28,7 @@ const Hero = () => {
                 </div>            
               </div>
             <div className="md:flex-1 flex justify-center lg:justify-end w-full">
-              <img className="block lg:mx-auto"  src={`${process.env.PUBLIC_URL}/assets/illustrations/illustration-1.png`} alt="Illustration" />
+              <img className="block lg:mx-auto"  src={`${process.env.PUBLIC_URL}/assets/illustrations/Illustration-1.png`} alt="Illustration" />
             </div>
           </div>
 
